@@ -58,6 +58,8 @@ Copyright©2025 Hello_Enter Dev. All rights reserved.
    **N-MS54[2025-03-11]** <br/>服务器更新，yzmtcd发布了更新日志，追踪序号为 U-MS31。
 
    **N-MS55[2025-TREE]** <br/>植树节更新！yzmtcd发布了更新日志，追踪序号为 U-MS32。
+     
+   **N-MS56[2025-TREE]** <br/>植树节，ZXYZ有了新的服务器ICON。
    
 ## 更新日志
 | 追踪序号 |发布日期|更新详细信息|
