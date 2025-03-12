@@ -3,6 +3,6 @@
 
 ZXYZ Tracker (Unofficial)
 
-版权所有©2025 Hello_Enter Dev.保留所有权利
+版权所有©2025 Hello_Enter Dev。 保留所有权利。
 
 Copyright©2025 Hello_Enter Dev. All rights reserved.
