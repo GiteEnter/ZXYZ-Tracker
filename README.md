@@ -80,7 +80,7 @@
 
    **📝 N-ZXYZ69[2025-03-25]** <br/>以前称为“ZXYZ”的 Minecraft 服务器 更名为一个新项目 - YZ Skyland，yzmtcd 完全拥有该项目。
    
-   **📝 N-ZXYZ670[2025-03-27]** <br/>现在服务器使用 mc.yzmtcd.icu 和 mc1.yzmtcd.icu 作为服务器连接地址（弃用 xhdn9231.xyz 的二级域名）。
+   **📝 N-MS70[2025-03-27]** <br/>现在服务器使用 mc.yzmtcd.icu 和 mc1.yzmtcd.icu 作为服务器连接地址（弃用 xhdn9231.xyz 的二级域名）。
 
    
    
