@@ -1,5 +1,6 @@
 ## 概述
 👋 你好！这里是YZ Skyland Minecraft 服务器的非官方追踪器。该系统记录一些重大事迹和每一个公开的更新日志。
+
 🎉 终于, YZ Skyland拥有了官方的追踪器, 访问 https://www.yzmtcd.icu/yijiantill.php 查看官方构建的追踪器。该追踪器会一直存在（出于信任与标准化考量）。
 
 ## 新闻
